@@ -4,14 +4,14 @@ Welcome to **Coding Notes**, my personal coding notes hub for mastering HTML, CS
 
 This repo serves as a well-organized, beginner-to-advanced reference guide that you can always come back to when you need a quick refresh or deep dive.
 
-**Live Site:** [Coding Notes](https://amanverma2009.github.io/coding-notes)
+**Live Site:** [Coding Notes](https://amanvermaweb.github.io/coding-notes)
 
 ## Run Locally
 
 ### 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/amanverma2009/coding-notes.git
+   git clone https://github.com/amanvermaweb/coding-notes.git
    cd coding-notes
    ```
 
