@@ -142,7 +142,7 @@ export async function GET() {
 
 ## Folder Structure Summary
 
-```tezt
+```text
 app/
  ├── api/
  │   ├── users/

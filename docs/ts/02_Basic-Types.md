@@ -1,4 +1,4 @@
-# Basic Types in TypeScript
+# ![ ](../assets/typescript.svg) Basic Types in TypeScript
 
 ## Number
 

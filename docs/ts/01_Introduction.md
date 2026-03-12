@@ -1,4 +1,4 @@
-# Introduction to TypeScript
+# ![ ](../assets/typescript.svg) Introduction to TypeScript
 
 ## What is TypeScript
 
@@ -150,8 +150,8 @@ Features:
 
 Editors like:
 
-- [Visual Studio Code](chatgpt://generic-entity?number=1)
-- [WebStorm](chatgpt://generic-entity?number=2)
+- Visual Studio Code
+- WebStorm
 
 work extremely well with TypeScript.
 
@@ -237,10 +237,10 @@ TypeScript is widely used in modern frameworks and large-scale applications.
 
 Common examples:
 
-- [Angular](chatgpt://generic-entity?number=3) (built with TypeScript)
-- [Next.js](chatgpt://generic-entity?number=4)
-- [React](chatgpt://generic-entity?number=5)
-- [NestJS](chatgpt://generic-entity?number=6)
+- Angular (built with TypeScript)
+- Next.js
+- React
+- NestJS
 
 Most large production codebases now prefer TypeScript over plain JavaScript.
 

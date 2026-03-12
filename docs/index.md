@@ -15,6 +15,7 @@ Think of it as a personal coding cheat sheet that grows with me.
 8. [MongoDB](./mongodb/01_Introduction.md)
 9. [React](./react/01_Basics.md)
 10. [Next.js](./next-js/01_Introduction.md)
+11. [TypeScript](./ts/01_Introduction.md)
 
 ## Why Use This?
 

@@ -1,4 +1,4 @@
-# Arrays and Tuples in TypeScript
+# ![ ](../assets/typescript.svg) Arrays and Tuples in TypeScript
 
 ## Arrays
 

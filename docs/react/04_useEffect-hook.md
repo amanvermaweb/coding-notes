@@ -27,11 +27,12 @@ useEffect(() => {
 
 ```jsx
 useEffect(() => {
-  console.log("Runs once on mount");
+  console.log("Runs after the initial mount");
 }, []);
 ```
 
-* Runs **only once** when the component is mounted (like `componentDidMount`)
+* Runs after the **initial mount** in production
+* In development with **Strict Mode**, React may run the effect, clean it up, and run it again to help detect side effects
 
 ## 4. With Dependencies
 

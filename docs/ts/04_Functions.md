@@ -1,4 +1,4 @@
-# Functions in TypeScript
+# ![ ](../assets/typescript.svg) Functions in TypeScript
 
 ## Function Basics
 Functions in TypeScript work like JavaScript functions but with **type safety**.  

@@ -35,7 +35,7 @@ Next.js is a **React-based framework** developed by **Vercel** that simplifies b
 
 ```text
 my-app/
-├── pages/
+├── app/
 │   ├── index.js
 │   ├── about.js
 │   └── api/

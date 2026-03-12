@@ -1,4 +1,4 @@
-# Variables and Type Annotations in TypeScript
+# ![ ](../assets/typescript.svg) Variables and Type Annotations in TypeScript
 
 ## Declaring Variables
 
