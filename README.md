@@ -8,14 +8,14 @@ This repo serves as a well-organized, beginner-to-advanced reference guide that 
 
 ## Run Locally
 
-### 1. Clone the repo:
+### 1. Clone the repo
 
    ```bash
    git clone https://github.com/amanvermaweb/coding-notes.git
    cd coding-notes
    ```
 
-### 2. (Optional but recommended) Create and activate a virtual environment:
+### 2. (Optional but recommended) Create and activate a virtual environment
 
    ```bash
    python -m venv venv
@@ -25,13 +25,13 @@ This repo serves as a well-organized, beginner-to-advanced reference guide that 
    source venv/bin/activate
    ```
 
-### 3. Install dependencies:
+### 3. Install dependencies
 
    ```bash
    pip install -r requirements.txt
    ```
 
-### 4. Start the local dev server:
+### 4. Start the local dev server
 
    ```bash
    mkdocs serve

@@ -10,6 +10,7 @@ arrange:
   - mongodb
   - react
   - next-js
+  - ts
 
 folders:
   assets:
